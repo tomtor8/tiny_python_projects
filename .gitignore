@@ -12,7 +12,6 @@ tex2pdf*
 .idea
 .vscode
 07_gashlycrumb/gashlycrumb.py
-13_twelve_days/twelve_days.py
 14_rhymer/rhymer.py
 15_kentucky_friar/friar.py
 16_scrambler/scrambler.py
